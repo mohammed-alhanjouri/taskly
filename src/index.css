@@ -3,6 +3,13 @@
 @theme static {
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
 
+  /* Spacing and border radius */
+  --spacing: 0.25rem;
+  --radius-xs: 0.125rem;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.625rem;
+
   /* Semantic colors */
   --color-primary-default: #041b3c;
   --color-background-default: #fafafa;
